@@ -8,3 +8,6 @@ Download file and put the following code in your html head</br>
 </br></br>
 You can then create a new <code>Color</code> object:</br>
 Sample code:  <code>let color = new Color(hue, saturation, light); </code>
+
+<h1>Use Case</h2>
+Check out <a href="http://www.ishamjassat.com/projects/timely/">Timely</a>
